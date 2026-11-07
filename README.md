@@ -1,3 +1,4 @@
+
 # Kavach
 
 Kavach is a website that shows how safe each area of Bengaluru feels, for the **morning**, **afternoon** and **night**.
@@ -106,3 +107,6 @@ You can change these numbers at the top of `server/scoring.js`.
 
 - The map uses free OpenStreetMap tiles and the weather uses the free open-meteo.com. Both need internet.
 - `npm audit` shows 4 warnings in `client`. They only affect the developer preview (`npm run dev`), not the finished website. Fixing them needs Node 20 or newer.
+
+# kavachh
+A full-stack web application for safety and navigation.
