@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+# files the server creates while running
+server/data/users.json
+server/data/user_reports.json
+server/data/.secret

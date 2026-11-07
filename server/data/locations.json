@@ -1,0 +1,3279 @@
+[
+  {
+    "locationName": "Koramangala",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "incidentScore": 62,
+    "nightRiskScore": 58,
+    "communityScore": 70,
+    "infrastructureScore": 75,
+    "locationScore": 53,
+    "timeSlotScores": {
+      "morning": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 36,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 60,
+      "nightSafety": 42,
+      "roadSafety": 75,
+      "womenSafety": 54,
+      "source": "mockup"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        48,
+        50,
+        49,
+        52,
+        51,
+        53
+      ],
+      "source": "mockup"
+    }
+  },
+  {
+    "locationName": "HSR Layout",
+    "latitude": 12.9121,
+    "longitude": 77.6446,
+    "incidentScore": 45,
+    "nightRiskScore": 40,
+    "communityScore": 80,
+    "infrastructureScore": 82,
+    "locationScore": 67,
+    "timeSlotScores": {
+      "morning": {
+        "score": 75,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 81,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 55,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 55,
+      "nightSafety": 60,
+      "roadSafety": 82,
+      "womenSafety": 70,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        67
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Whitefield",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "incidentScore": 38,
+    "nightRiskScore": 50,
+    "communityScore": 65,
+    "infrastructureScore": 60,
+    "locationScore": 59,
+    "timeSlotScores": {
+      "morning": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 73,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 44,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 62,
+      "nightSafety": 50,
+      "roadSafety": 60,
+      "womenSafety": 58,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        59
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Jayanagar",
+    "latitude": 12.9308,
+    "longitude": 77.5838,
+    "incidentScore": 70,
+    "nightRiskScore": 65,
+    "communityScore": 72,
+    "infrastructureScore": 78,
+    "locationScore": 49,
+    "timeSlotScores": {
+      "morning": {
+        "score": 57,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 29,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 30,
+      "nightSafety": 35,
+      "roadSafety": 78,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        49
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Electronic City",
+    "latitude": 12.8452,
+    "longitude": 77.6602,
+    "incidentScore": 55,
+    "nightRiskScore": 72,
+    "communityScore": 50,
+    "infrastructureScore": 45,
+    "locationScore": 42,
+    "timeSlotScores": {
+      "morning": {
+        "score": 50,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 56,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 20,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 45,
+      "nightSafety": 28,
+      "roadSafety": 45,
+      "womenSafety": 39,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        42
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Indiranagar",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "incidentScore": 58,
+    "nightRiskScore": 55,
+    "communityScore": 75,
+    "infrastructureScore": 80,
+    "locationScore": 57,
+    "timeSlotScores": {
+      "morning": {
+        "score": 65,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 71,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 42,
+      "nightSafety": 45,
+      "roadSafety": 80,
+      "womenSafety": 60,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        57
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Majestic",
+    "latitude": 12.9767,
+    "longitude": 77.5713,
+    "incidentScore": 78,
+    "nightRiskScore": 80,
+    "communityScore": 45,
+    "infrastructureScore": 50,
+    "locationScore": 32,
+    "timeSlotScores": {
+      "morning": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 46,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 8,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 22,
+      "nightSafety": 20,
+      "roadSafety": 50,
+      "womenSafety": 33,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        32
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Airport",
+    "latitude": 13.1986,
+    "longitude": 77.7066,
+    "incidentScore": 30,
+    "nightRiskScore": 60,
+    "communityScore": 55,
+    "infrastructureScore": 70,
+    "locationScore": 60,
+    "timeSlotScores": {
+      "morning": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 74,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 42,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 70,
+      "nightSafety": 40,
+      "roadSafety": 70,
+      "womenSafety": 48,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        60
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "MG Road",
+    "latitude": 12.9752,
+    "longitude": 77.6068,
+    "incidentScore": 65,
+    "nightRiskScore": 62,
+    "communityScore": 68,
+    "infrastructureScore": 74,
+    "locationScore": 50,
+    "timeSlotScores": {
+      "morning": {
+        "score": 58,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 31,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 35,
+      "nightSafety": 38,
+      "roadSafety": 74,
+      "womenSafety": 53,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        50
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Malleshwaram",
+    "latitude": 13.0035,
+    "longitude": 77.5647,
+    "incidentScore": 50,
+    "nightRiskScore": 48,
+    "communityScore": 74,
+    "infrastructureScore": 72,
+    "locationScore": 60,
+    "timeSlotScores": {
+      "morning": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 74,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 46,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 50,
+      "nightSafety": 52,
+      "roadSafety": 72,
+      "womenSafety": 63,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        60
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Rajajinagar",
+    "latitude": 12.991,
+    "longitude": 77.552,
+    "incidentScore": 55,
+    "nightRiskScore": 52,
+    "communityScore": 68,
+    "infrastructureScore": 66,
+    "locationScore": 55,
+    "timeSlotScores": {
+      "morning": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 39,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 45,
+      "nightSafety": 48,
+      "roadSafety": 66,
+      "womenSafety": 58,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        55
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Basavanagudi",
+    "latitude": 12.9422,
+    "longitude": 77.5738,
+    "incidentScore": 42,
+    "nightRiskScore": 40,
+    "communityScore": 78,
+    "infrastructureScore": 74,
+    "locationScore": 66,
+    "timeSlotScores": {
+      "morning": {
+        "score": 74,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 80,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 54,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 58,
+      "nightSafety": 60,
+      "roadSafety": 74,
+      "womenSafety": 69,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        66
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "BTM Layout",
+    "latitude": 12.9166,
+    "longitude": 77.6101,
+    "incidentScore": 60,
+    "nightRiskScore": 62,
+    "communityScore": 66,
+    "infrastructureScore": 64,
+    "locationScore": 50,
+    "timeSlotScores": {
+      "morning": {
+        "score": 58,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 31,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 40,
+      "nightSafety": 38,
+      "roadSafety": 64,
+      "womenSafety": 52,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        50
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "JP Nagar",
+    "latitude": 12.9063,
+    "longitude": 77.5857,
+    "incidentScore": 48,
+    "nightRiskScore": 46,
+    "communityScore": 76,
+    "infrastructureScore": 76,
+    "locationScore": 62,
+    "timeSlotScores": {
+      "morning": {
+        "score": 70,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 76,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 48,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 52,
+      "nightSafety": 54,
+      "roadSafety": 76,
+      "womenSafety": 65,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        62
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Banashankari",
+    "latitude": 12.9255,
+    "longitude": 77.5468,
+    "incidentScore": 46,
+    "nightRiskScore": 50,
+    "communityScore": 72,
+    "infrastructureScore": 68,
+    "locationScore": 59,
+    "timeSlotScores": {
+      "morning": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 73,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 44,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 50,
+      "roadSafety": 68,
+      "womenSafety": 61,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        59
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Marathahalli",
+    "latitude": 12.9569,
+    "longitude": 77.7011,
+    "incidentScore": 58,
+    "nightRiskScore": 64,
+    "communityScore": 62,
+    "infrastructureScore": 58,
+    "locationScore": 48,
+    "timeSlotScores": {
+      "morning": {
+        "score": 56,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 29,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 42,
+      "nightSafety": 36,
+      "roadSafety": 58,
+      "womenSafety": 49,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        48
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Bellandur",
+    "latitude": 12.9304,
+    "longitude": 77.6784,
+    "incidentScore": 52,
+    "nightRiskScore": 60,
+    "communityScore": 60,
+    "infrastructureScore": 56,
+    "locationScore": 50,
+    "timeSlotScores": {
+      "morning": {
+        "score": 58,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 32,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 48,
+      "nightSafety": 40,
+      "roadSafety": 56,
+      "womenSafety": 50,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        50
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Sarjapur Road",
+    "latitude": 12.91,
+    "longitude": 77.687,
+    "incidentScore": 44,
+    "nightRiskScore": 56,
+    "communityScore": 58,
+    "infrastructureScore": 52,
+    "locationScore": 53,
+    "timeSlotScores": {
+      "morning": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 36,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 44,
+      "roadSafety": 52,
+      "womenSafety": 51,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        53
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Hebbal",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "incidentScore": 54,
+    "nightRiskScore": 56,
+    "communityScore": 64,
+    "infrastructureScore": 66,
+    "locationScore": 53,
+    "timeSlotScores": {
+      "morning": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 36,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 46,
+      "nightSafety": 44,
+      "roadSafety": 66,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        53
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Yelahanka",
+    "latitude": 13.1007,
+    "longitude": 77.5963,
+    "incidentScore": 40,
+    "nightRiskScore": 52,
+    "communityScore": 66,
+    "infrastructureScore": 64,
+    "locationScore": 59,
+    "timeSlotScores": {
+      "morning": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 73,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 43,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 60,
+      "nightSafety": 48,
+      "roadSafety": 64,
+      "womenSafety": 57,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        59
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Yeshwanthpur",
+    "latitude": 13.0285,
+    "longitude": 77.5409,
+    "incidentScore": 60,
+    "nightRiskScore": 62,
+    "communityScore": 58,
+    "infrastructureScore": 60,
+    "locationScore": 47,
+    "timeSlotScores": {
+      "morning": {
+        "score": 55,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 28,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 40,
+      "nightSafety": 38,
+      "roadSafety": 60,
+      "womenSafety": 48,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        47
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Vijayanagar",
+    "latitude": 12.9719,
+    "longitude": 77.53,
+    "incidentScore": 52,
+    "nightRiskScore": 54,
+    "communityScore": 66,
+    "infrastructureScore": 62,
+    "locationScore": 54,
+    "timeSlotScores": {
+      "morning": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 38,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 48,
+      "nightSafety": 46,
+      "roadSafety": 62,
+      "womenSafety": 56,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        54
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Rajarajeshwari Nagar",
+    "latitude": 12.9279,
+    "longitude": 77.519,
+    "incidentScore": 48,
+    "nightRiskScore": 58,
+    "communityScore": 60,
+    "infrastructureScore": 54,
+    "locationScore": 52,
+    "timeSlotScores": {
+      "morning": {
+        "score": 60,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 35,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 52,
+      "nightSafety": 42,
+      "roadSafety": 54,
+      "womenSafety": 51,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        52
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Kengeri",
+    "latitude": 12.9177,
+    "longitude": 77.4833,
+    "incidentScore": 42,
+    "nightRiskScore": 60,
+    "communityScore": 54,
+    "infrastructureScore": 48,
+    "locationScore": 51,
+    "timeSlotScores": {
+      "morning": {
+        "score": 59,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 65,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 33,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 58,
+      "nightSafety": 40,
+      "roadSafety": 48,
+      "womenSafety": 47,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        51
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Peenya",
+    "latitude": 13.0285,
+    "longitude": 77.5197,
+    "incidentScore": 58,
+    "nightRiskScore": 68,
+    "communityScore": 52,
+    "infrastructureScore": 50,
+    "locationScore": 43,
+    "timeSlotScores": {
+      "morning": {
+        "score": 51,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 57,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 23,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 42,
+      "nightSafety": 32,
+      "roadSafety": 50,
+      "womenSafety": 42,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        43
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Hennur",
+    "latitude": 13.0358,
+    "longitude": 77.6395,
+    "incidentScore": 46,
+    "nightRiskScore": 58,
+    "communityScore": 60,
+    "infrastructureScore": 54,
+    "locationScore": 52,
+    "timeSlotScores": {
+      "morning": {
+        "score": 60,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 35,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 42,
+      "roadSafety": 54,
+      "womenSafety": 51,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        52
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Kalyan Nagar",
+    "latitude": 13.025,
+    "longitude": 77.6405,
+    "incidentScore": 50,
+    "nightRiskScore": 56,
+    "communityScore": 66,
+    "infrastructureScore": 64,
+    "locationScore": 54,
+    "timeSlotScores": {
+      "morning": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 37,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 50,
+      "nightSafety": 44,
+      "roadSafety": 64,
+      "womenSafety": 55,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        54
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "HBR Layout",
+    "latitude": 13.033,
+    "longitude": 77.619,
+    "incidentScore": 44,
+    "nightRiskScore": 50,
+    "communityScore": 68,
+    "infrastructureScore": 66,
+    "locationScore": 59,
+    "timeSlotScores": {
+      "morning": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 73,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 44,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 50,
+      "roadSafety": 66,
+      "womenSafety": 59,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        59
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "RT Nagar",
+    "latitude": 13.0214,
+    "longitude": 77.5953,
+    "incidentScore": 48,
+    "nightRiskScore": 52,
+    "communityScore": 70,
+    "infrastructureScore": 68,
+    "locationScore": 58,
+    "timeSlotScores": {
+      "morning": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 72,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 42,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 52,
+      "nightSafety": 48,
+      "roadSafety": 68,
+      "womenSafety": 59,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        58
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Sadashivanagar",
+    "latitude": 13.0068,
+    "longitude": 77.58,
+    "incidentScore": 30,
+    "nightRiskScore": 34,
+    "communityScore": 82,
+    "infrastructureScore": 84,
+    "locationScore": 74,
+    "timeSlotScores": {
+      "morning": {
+        "score": 82,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 88,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 70,
+      "nightSafety": 66,
+      "roadSafety": 84,
+      "womenSafety": 74,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        74
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Frazer Town",
+    "latitude": 12.9985,
+    "longitude": 77.6155,
+    "incidentScore": 52,
+    "nightRiskScore": 54,
+    "communityScore": 68,
+    "infrastructureScore": 68,
+    "locationScore": 56,
+    "timeSlotScores": {
+      "morning": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 70,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 48,
+      "nightSafety": 46,
+      "roadSafety": 68,
+      "womenSafety": 57,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        56
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Shivajinagar",
+    "latitude": 12.9857,
+    "longitude": 77.6057,
+    "incidentScore": 72,
+    "nightRiskScore": 70,
+    "communityScore": 52,
+    "infrastructureScore": 56,
+    "locationScore": 39,
+    "timeSlotScores": {
+      "morning": {
+        "score": 47,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 53,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 18,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 28,
+      "nightSafety": 30,
+      "roadSafety": 56,
+      "womenSafety": 41,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        39
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Richmond Town",
+    "latitude": 12.9644,
+    "longitude": 77.6,
+    "incidentScore": 40,
+    "nightRiskScore": 42,
+    "communityScore": 74,
+    "infrastructureScore": 78,
+    "locationScore": 66,
+    "timeSlotScores": {
+      "morning": {
+        "score": 74,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 80,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 53,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 60,
+      "nightSafety": 58,
+      "roadSafety": 78,
+      "womenSafety": 66,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        66
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Domlur",
+    "latitude": 12.9609,
+    "longitude": 77.6387,
+    "incidentScore": 44,
+    "nightRiskScore": 46,
+    "communityScore": 72,
+    "infrastructureScore": 76,
+    "locationScore": 63,
+    "timeSlotScores": {
+      "morning": {
+        "score": 71,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 77,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 49,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 54,
+      "roadSafety": 76,
+      "womenSafety": 63,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        63
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Ulsoor",
+    "latitude": 12.9816,
+    "longitude": 77.62,
+    "incidentScore": 56,
+    "nightRiskScore": 56,
+    "communityScore": 70,
+    "infrastructureScore": 72,
+    "locationScore": 55,
+    "timeSlotScores": {
+      "morning": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 38,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 44,
+      "nightSafety": 44,
+      "roadSafety": 72,
+      "womenSafety": 57,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        55
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Vasanth Nagar",
+    "latitude": 12.989,
+    "longitude": 77.592,
+    "incidentScore": 58,
+    "nightRiskScore": 58,
+    "communityScore": 66,
+    "infrastructureScore": 68,
+    "locationScore": 52,
+    "timeSlotScores": {
+      "morning": {
+        "score": 60,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 35,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 42,
+      "nightSafety": 42,
+      "roadSafety": 68,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        52
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Brookefield",
+    "latitude": 12.966,
+    "longitude": 77.715,
+    "incidentScore": 46,
+    "nightRiskScore": 54,
+    "communityScore": 64,
+    "infrastructureScore": 60,
+    "locationScore": 55,
+    "timeSlotScores": {
+      "morning": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 39,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 46,
+      "roadSafety": 60,
+      "womenSafety": 55,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        55
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "KR Puram",
+    "latitude": 13.0073,
+    "longitude": 77.696,
+    "incidentScore": 62,
+    "nightRiskScore": 68,
+    "communityScore": 52,
+    "infrastructureScore": 50,
+    "locationScore": 42,
+    "timeSlotScores": {
+      "morning": {
+        "score": 50,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 56,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 22,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 38,
+      "nightSafety": 32,
+      "roadSafety": 50,
+      "womenSafety": 42,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        42
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Mahadevapura",
+    "latitude": 12.991,
+    "longitude": 77.697,
+    "incidentScore": 56,
+    "nightRiskScore": 62,
+    "communityScore": 58,
+    "infrastructureScore": 56,
+    "locationScore": 48,
+    "timeSlotScores": {
+      "morning": {
+        "score": 56,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 29,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 44,
+      "nightSafety": 38,
+      "roadSafety": 56,
+      "womenSafety": 48,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        48
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "CV Raman Nagar",
+    "latitude": 12.985,
+    "longitude": 77.664,
+    "incidentScore": 44,
+    "nightRiskScore": 48,
+    "communityScore": 70,
+    "infrastructureScore": 70,
+    "locationScore": 61,
+    "timeSlotScores": {
+      "morning": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 75,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 47,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 52,
+      "roadSafety": 70,
+      "womenSafety": 61,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        61
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Bommanahalli",
+    "latitude": 12.9081,
+    "longitude": 77.6244,
+    "incidentScore": 58,
+    "nightRiskScore": 64,
+    "communityScore": 60,
+    "infrastructureScore": 56,
+    "locationScore": 47,
+    "timeSlotScores": {
+      "morning": {
+        "score": 55,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 28,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 42,
+      "nightSafety": 36,
+      "roadSafety": 56,
+      "womenSafety": 48,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        47
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Hosur Road",
+    "latitude": 12.901,
+    "longitude": 77.626,
+    "incidentScore": 60,
+    "nightRiskScore": 66,
+    "communityScore": 58,
+    "infrastructureScore": 54,
+    "locationScore": 45,
+    "timeSlotScores": {
+      "morning": {
+        "score": 53,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 59,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 25,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 40,
+      "nightSafety": 34,
+      "roadSafety": 54,
+      "womenSafety": 46,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        45
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Silk Board",
+    "latitude": 12.9177,
+    "longitude": 77.6233,
+    "incidentScore": 66,
+    "nightRiskScore": 72,
+    "communityScore": 50,
+    "infrastructureScore": 52,
+    "locationScore": 39,
+    "timeSlotScores": {
+      "morning": {
+        "score": 47,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 53,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 17,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 34,
+      "nightSafety": 28,
+      "roadSafety": 52,
+      "womenSafety": 39,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        39
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Bannerghatta Road",
+    "latitude": 12.89,
+    "longitude": 77.597,
+    "incidentScore": 46,
+    "nightRiskScore": 56,
+    "communityScore": 64,
+    "infrastructureScore": 60,
+    "locationScore": 55,
+    "timeSlotScores": {
+      "morning": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 38,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 44,
+      "roadSafety": 60,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        55
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Arekere",
+    "latitude": 12.8895,
+    "longitude": 77.6048,
+    "incidentScore": 42,
+    "nightRiskScore": 52,
+    "communityScore": 66,
+    "infrastructureScore": 62,
+    "locationScore": 58,
+    "timeSlotScores": {
+      "morning": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 72,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 42,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 58,
+      "nightSafety": 48,
+      "roadSafety": 62,
+      "womenSafety": 57,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        58
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Hulimavu",
+    "latitude": 12.875,
+    "longitude": 77.603,
+    "incidentScore": 40,
+    "nightRiskScore": 54,
+    "communityScore": 62,
+    "infrastructureScore": 56,
+    "locationScore": 56,
+    "timeSlotScores": {
+      "morning": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 70,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 60,
+      "nightSafety": 46,
+      "roadSafety": 56,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        56
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Harlur",
+    "latitude": 12.902,
+    "longitude": 77.665,
+    "incidentScore": 42,
+    "nightRiskScore": 52,
+    "communityScore": 64,
+    "infrastructureScore": 60,
+    "locationScore": 57,
+    "timeSlotScores": {
+      "morning": {
+        "score": 65,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 71,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 41,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 58,
+      "nightSafety": 48,
+      "roadSafety": 60,
+      "womenSafety": 56,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        57
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Kadugodi",
+    "latitude": 12.998,
+    "longitude": 77.761,
+    "incidentScore": 40,
+    "nightRiskScore": 56,
+    "communityScore": 56,
+    "infrastructureScore": 52,
+    "locationScore": 54,
+    "timeSlotScores": {
+      "morning": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 37,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 60,
+      "nightSafety": 44,
+      "roadSafety": 52,
+      "womenSafety": 50,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        54
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Hoodi",
+    "latitude": 12.992,
+    "longitude": 77.716,
+    "incidentScore": 48,
+    "nightRiskScore": 56,
+    "communityScore": 62,
+    "infrastructureScore": 58,
+    "locationScore": 53,
+    "timeSlotScores": {
+      "morning": {
+        "score": 61,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 67,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 36,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 52,
+      "nightSafety": 44,
+      "roadSafety": 58,
+      "womenSafety": 53,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        53
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Varthur",
+    "latitude": 12.939,
+    "longitude": 77.741,
+    "incidentScore": 46,
+    "nightRiskScore": 60,
+    "communityScore": 56,
+    "infrastructureScore": 50,
+    "locationScore": 50,
+    "timeSlotScores": {
+      "morning": {
+        "score": 58,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 32,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 40,
+      "roadSafety": 50,
+      "womenSafety": 48,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        50
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Devanahalli",
+    "latitude": 13.247,
+    "longitude": 77.713,
+    "incidentScore": 28,
+    "nightRiskScore": 58,
+    "communityScore": 52,
+    "infrastructureScore": 56,
+    "locationScore": 57,
+    "timeSlotScores": {
+      "morning": {
+        "score": 65,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 71,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 72,
+      "nightSafety": 42,
+      "roadSafety": 56,
+      "womenSafety": 47,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        57
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Yelachenahalli",
+    "latitude": 12.896,
+    "longitude": 77.574,
+    "incidentScore": 38,
+    "nightRiskScore": 46,
+    "communityScore": 70,
+    "infrastructureScore": 66,
+    "locationScore": 62,
+    "timeSlotScores": {
+      "morning": {
+        "score": 70,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 76,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 48,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 62,
+      "nightSafety": 54,
+      "roadSafety": 66,
+      "womenSafety": 62,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        62
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Girinagar",
+    "latitude": 12.942,
+    "longitude": 77.54,
+    "incidentScore": 44,
+    "nightRiskScore": 50,
+    "communityScore": 66,
+    "infrastructureScore": 62,
+    "locationScore": 58,
+    "timeSlotScores": {
+      "morning": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 72,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 43,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 50,
+      "roadSafety": 62,
+      "womenSafety": 58,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        58
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Chamarajpet",
+    "latitude": 12.956,
+    "longitude": 77.565,
+    "incidentScore": 60,
+    "nightRiskScore": 58,
+    "communityScore": 62,
+    "infrastructureScore": 60,
+    "locationScore": 49,
+    "timeSlotScores": {
+      "morning": {
+        "score": 57,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 32,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 40,
+      "nightSafety": 42,
+      "roadSafety": 60,
+      "womenSafety": 52,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        49
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Wilson Garden",
+    "latitude": 12.95,
+    "longitude": 77.596,
+    "incidentScore": 54,
+    "nightRiskScore": 54,
+    "communityScore": 66,
+    "infrastructureScore": 66,
+    "locationScore": 54,
+    "timeSlotScores": {
+      "morning": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 68,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 38,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 46,
+      "nightSafety": 46,
+      "roadSafety": 66,
+      "womenSafety": 56,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        54
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Jalahalli",
+    "latitude": 13.045,
+    "longitude": 77.533,
+    "incidentScore": 50,
+    "nightRiskScore": 60,
+    "communityScore": 58,
+    "infrastructureScore": 56,
+    "locationScore": 50,
+    "timeSlotScores": {
+      "morning": {
+        "score": 58,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 32,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 50,
+      "nightSafety": 40,
+      "roadSafety": 56,
+      "womenSafety": 49,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        50
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Nagarbhavi",
+    "latitude": 12.96,
+    "longitude": 77.51,
+    "incidentScore": 44,
+    "nightRiskScore": 54,
+    "communityScore": 62,
+    "infrastructureScore": 58,
+    "locationScore": 55,
+    "timeSlotScores": {
+      "morning": {
+        "score": 63,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 69,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 39,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 56,
+      "nightSafety": 46,
+      "roadSafety": 58,
+      "womenSafety": 54,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        55
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Banaswadi",
+    "latitude": 13.011,
+    "longitude": 77.651,
+    "incidentScore": 48,
+    "nightRiskScore": 52,
+    "communityScore": 66,
+    "infrastructureScore": 64,
+    "locationScore": 56,
+    "timeSlotScores": {
+      "morning": {
+        "score": 64,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 70,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 52,
+      "nightSafety": 48,
+      "roadSafety": 64,
+      "womenSafety": 57,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        56
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Ramamurthy Nagar",
+    "latitude": 13.015,
+    "longitude": 77.675,
+    "incidentScore": 50,
+    "nightRiskScore": 58,
+    "communityScore": 60,
+    "infrastructureScore": 58,
+    "locationScore": 52,
+    "timeSlotScores": {
+      "morning": {
+        "score": 60,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 66,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 35,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 50,
+      "nightSafety": 42,
+      "roadSafety": 58,
+      "womenSafety": 51,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        52
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Sanjay Nagar",
+    "latitude": 13.037,
+    "longitude": 77.574,
+    "incidentScore": 46,
+    "nightRiskScore": 50,
+    "communityScore": 66,
+    "infrastructureScore": 64,
+    "locationScore": 57,
+    "timeSlotScores": {
+      "morning": {
+        "score": 65,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 71,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 42,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 54,
+      "nightSafety": 50,
+      "roadSafety": 64,
+      "womenSafety": 58,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        57
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "City Market",
+    "latitude": 12.965,
+    "longitude": 77.575,
+    "incidentScore": 76,
+    "nightRiskScore": 76,
+    "communityScore": 44,
+    "infrastructureScore": 46,
+    "locationScore": 32,
+    "timeSlotScores": {
+      "morning": {
+        "score": 40,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 46,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 9,
+        "band": "Risky",
+        "severity": "High",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 24,
+      "nightSafety": 24,
+      "roadSafety": 46,
+      "womenSafety": 34,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        32
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    }
+  },
+  {
+    "locationName": "Cubbon Park",
+    "latitude": 12.9763,
+    "longitude": 77.5929,
+    "incidentScore": 36,
+    "nightRiskScore": 40,
+    "communityScore": 74,
+    "infrastructureScore": 80,
+    "locationScore": 68,
+    "timeSlotScores": {
+      "morning": {
+        "score": 76,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 82,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 56,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 64,
+      "nightSafety": 60,
+      "roadSafety": 80,
+      "womenSafety": 70,
+      "source": "mockup"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        70,
+        72,
+        71,
+        74,
+        75,
+        76
+      ],
+      "source": "mockup"
+    }
+  },
+  {
+    "locationName": "CMRIT, AECS Layout",
+    "latitude": 12.9666,
+    "longitude": 77.7118,
+    "incidentScore": 20,
+    "nightRiskScore": 50,
+    "communityScore": 88,
+    "infrastructureScore": 85,
+    "locationScore": 77,
+    "timeSlotScores": {
+      "morning": {
+        "score": 85,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 5,
+        "endHour": 12
+      },
+      "afternoon": {
+        "score": 91,
+        "band": "Safe",
+        "severity": "Low",
+        "startHour": 12,
+        "endHour": 18
+      },
+      "night": {
+        "score": 62,
+        "band": "Medium",
+        "severity": "Medium",
+        "startHour": 18,
+        "endHour": 5
+      }
+    },
+    "scoreBreakdown": {
+      "theft": 80,
+      "nightSafety": 50,
+      "roadSafety": 85,
+      "womenSafety": 69,
+      "source": "derived"
+    },
+    "trend": {
+      "months": 6,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        77
+      ],
+      "source": "current-only; earlier months to be filled from monthly snapshots"
+    },
+    "source": "user-specified (morning safest, afternoon safe, night medium)"
+  }
+]

@@ -1,0 +1,162 @@
+.home-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.home-greeting {
+  margin: 0;
+  color: var(--text-light);
+}
+.home-name {
+  margin: 0;
+  font-size: 28px;
+}
+.home-avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--purple);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* Phone: one column. Laptop: two columns. */
+.home-grid {
+  display: block;
+}
+@media (min-width: 768px) {
+  .home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: start;
+  }
+}
+
+/* Purple place card */
+.place-card {
+  background: var(--purple-dark);
+  color: #fff;
+  border-radius: 24px;
+  padding: 22px;
+  margin-bottom: 16px;
+}
+.place-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 24px;
+}
+.place-weather {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.place-name {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0 4px;
+  font-size: 32px;
+}
+.place-city {
+  margin: 0 0 18px;
+  opacity: 0.8;
+}
+.place-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.locate-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 999px;
+  background: transparent;
+  color: #fff;
+  font-size: 14px;
+}
+.locate-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Morning / Afternoon / Night */
+.time-buttons {
+  display: flex;
+  gap: 10px;
+}
+.time-btn {
+  flex: 1;
+  padding: 14px 0;
+  border-radius: 16px;
+  border: 1.5px solid var(--border);
+  background: var(--white);
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+}
+.time-btn.active {
+  background: var(--purple);
+  border-color: var(--purple);
+  color: #fff;
+}
+.time-note {
+  color: var(--text-light);
+  font-size: 14px;
+  margin: 8px 0 16px;
+}
+
+.home-search {
+  margin-bottom: 16px;
+}
+
+/* Safety score card */
+.score-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.small-title.tight {
+  margin-bottom: 8px;
+}
+.score-note {
+  margin: 10px 0 0;
+  color: var(--text-light);
+  font-size: 15px;
+  line-height: 1.5;
+}
+.score-change {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--purple);
+  font-weight: 500;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.legend .badge {
+  flex: 1;
+  text-align: center;
+}
+
+@media (max-width: 340px) {
+  .score-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

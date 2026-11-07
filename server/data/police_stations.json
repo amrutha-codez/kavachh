@@ -1,0 +1,1092 @@
+[
+  {
+    "stationId": 84,
+    "stationName": "Cubbon Park PS",
+    "stationCode": "PS - 84",
+    "latitude": 12.9800298427157,
+    "longitude": 77.5979641429556,
+    "location": "Cubbon Park"
+  },
+  {
+    "stationId": 85,
+    "stationName": "Vidhana Soudha PS",
+    "stationCode": "PS - 85",
+    "latitude": 12.9773209692159,
+    "longitude": 77.5886142885905,
+    "location": "Cubbon Park"
+  },
+  {
+    "stationId": 86,
+    "stationName": "Viveknagar PS",
+    "stationCode": "PS - 86",
+    "latitude": 12.951547000394,
+    "longitude": 77.6222989999259,
+    "location": "Koramangala"
+  },
+  {
+    "stationId": 87,
+    "stationName": "Halasurgate PS",
+    "stationCode": "PS - 87",
+    "latitude": 12.9679059997634,
+    "longitude": 77.5867767998637,
+    "location": "Cubbon Park"
+  },
+  {
+    "stationId": 88,
+    "stationName": "Sampangiramanagar PS",
+    "stationCode": "PS - 88",
+    "latitude": 12.9630649998591,
+    "longitude": 77.5921599999535,
+    "location": "Richmond Town"
+  },
+  {
+    "stationId": 89,
+    "stationName": "Wilsongarden PS",
+    "stationCode": "PS - 89",
+    "latitude": 12.9500430001231,
+    "longitude": 77.5961980000424,
+    "location": "Wilson Garden"
+  },
+  {
+    "stationId": 90,
+    "stationName": "High Grounds PS",
+    "stationCode": "PS - 90",
+    "latitude": 12.9899573531302,
+    "longitude": 77.5927664453475,
+    "location": "Vasanth Nagar"
+  },
+  {
+    "stationId": 91,
+    "stationName": "Sadashivanagar PS",
+    "stationCode": "PS - 91",
+    "latitude": 13.0149094111584,
+    "longitude": 77.5725447841245,
+    "location": "Sadashivanagar"
+  },
+  {
+    "stationId": 92,
+    "stationName": "Seshadripuram PS",
+    "stationCode": "PS - 92",
+    "latitude": 12.9879292996002,
+    "longitude": 77.5735902002227,
+    "location": "Majestic"
+  },
+  {
+    "stationId": 93,
+    "stationName": "Vyalikaval PS",
+    "stationCode": "PS - 93",
+    "latitude": 13.0014925000938,
+    "longitude": 77.5786416004447,
+    "location": "Sadashivanagar"
+  },
+  {
+    "stationId": 94,
+    "stationName": "Banaswadi PS",
+    "stationCode": "PS - 94",
+    "latitude": 13.0196345004026,
+    "longitude": 77.6403087004,
+    "location": "Kalyan Nagar"
+  },
+  {
+    "stationId": 95,
+    "stationName": "Devarajeevanahalli PS",
+    "stationCode": "PS - 95",
+    "latitude": 13.0093318996255,
+    "longitude": 77.6103367001824,
+    "location": "Frazer Town"
+  },
+  {
+    "stationId": 96,
+    "stationName": "Hennur PS",
+    "stationCode": "PS - 96",
+    "latitude": 13.024142138905,
+    "longitude": 77.6457466922352,
+    "location": "Kalyan Nagar"
+  },
+  {
+    "stationId": 97,
+    "stationName": "Kadugondana Halli PS",
+    "stationCode": "PS - 97",
+    "latitude": 13.0250519004078,
+    "longitude": 77.6274595998832,
+    "location": "HBR Layout"
+  },
+  {
+    "stationId": 98,
+    "stationName": "Ramamurthy Nagar PS",
+    "stationCode": "PS - 98",
+    "latitude": 13.0121958894059,
+    "longitude": 77.6676147006279,
+    "location": "Ramamurthy Nagar"
+  },
+  {
+    "stationId": 99,
+    "stationName": "Byappanahalli PS",
+    "stationCode": "PS - 99",
+    "latitude": 12.99146656405,
+    "longitude": 77.6568733672614,
+    "location": "CV Raman Nagar"
+  },
+  {
+    "stationId": 100,
+    "stationName": "Halasur PS",
+    "stationCode": "PS - 100",
+    "latitude": 12.9748128797954,
+    "longitude": 77.6253330610102,
+    "location": "Ulsoor"
+  },
+  {
+    "stationId": 101,
+    "stationName": "Indiranagar PS",
+    "stationCode": "PS - 101",
+    "latitude": 12.9829857001463,
+    "longitude": 77.638280000055,
+    "location": "Indiranagar"
+  },
+  {
+    "stationId": 102,
+    "stationName": "Jeevan Bheemanagar PS",
+    "stationCode": "PS - 102",
+    "latitude": 12.9676990004541,
+    "longitude": 77.6553852996563,
+    "location": "Domlur"
+  },
+  {
+    "stationId": 103,
+    "stationName": "Bharathi Nagar PS",
+    "stationCode": "PS - 103",
+    "latitude": 12.9912025002823,
+    "longitude": 77.6120856003067,
+    "location": "Frazer Town"
+  },
+  {
+    "stationId": 104,
+    "stationName": "Commercial Street PS",
+    "stationCode": "PS - 104",
+    "latitude": 12.9820757996245,
+    "longitude": 77.6064306996423,
+    "location": "Shivajinagar"
+  },
+  {
+    "stationId": 105,
+    "stationName": "Pulakeshinagar PS",
+    "stationCode": "PS - 105",
+    "latitude": 12.9992725573424,
+    "longitude": 77.6196531704426,
+    "location": "Frazer Town"
+  },
+  {
+    "stationId": 106,
+    "stationName": "Shivajinagar PS",
+    "stationCode": "PS - 106",
+    "latitude": 12.9855097999292,
+    "longitude": 77.6052475001124,
+    "location": "Shivajinagar"
+  },
+  {
+    "stationId": 107,
+    "stationName": "Malleshwarm PS",
+    "stationCode": "PS - 107",
+    "latitude": 12.9966449997394,
+    "longitude": 77.569587000137,
+    "location": "Malleshwaram"
+  },
+  {
+    "stationId": 108,
+    "stationName": "Srirampura PS",
+    "stationCode": "PS - 108",
+    "latitude": 12.9899929995949,
+    "longitude": 77.5650049998011,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": 109,
+    "stationName": "Subramanya Nagar PS",
+    "stationCode": "PS - 109",
+    "latitude": 13.0033419996475,
+    "longitude": 77.5536799999682,
+    "location": "Malleshwaram"
+  },
+  {
+    "stationId": 110,
+    "stationName": "Rajajinagar PS",
+    "stationCode": "PS - 110",
+    "latitude": 12.9946259998528,
+    "longitude": 77.5542170001696,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": 111,
+    "stationName": "Rajgopal Nagar PS",
+    "stationCode": "PS - 111",
+    "latitude": 13.017349999738,
+    "longitude": 77.5135710004188,
+    "location": "Peenya"
+  },
+  {
+    "stationId": 113,
+    "stationName": "Nandini Layout PS",
+    "stationCode": "PS - 113",
+    "latitude": 13.0123670002594,
+    "longitude": 77.5367059999833,
+    "location": "Yeshwanthpur"
+  },
+  {
+    "stationId": 114,
+    "stationName": "Yeshwanthapura PS",
+    "stationCode": "PS - 114",
+    "latitude": 13.018195000432,
+    "longitude": 77.5580990000111,
+    "location": "Malleshwaram"
+  },
+  {
+    "stationId": 115,
+    "stationName": "RMC Yard PS, Yeshwanthpura",
+    "stationCode": "PS - 115",
+    "latitude": 13.023521263115,
+    "longitude": 77.5499230793907,
+    "location": "Yeshwanthpur"
+  },
+  {
+    "stationId": 116,
+    "stationName": "Peenya PS",
+    "stationCode": "PS - 116",
+    "latitude": 13.0360401362993,
+    "longitude": 77.5211640244163,
+    "location": "Peenya"
+  },
+  {
+    "stationId": 117,
+    "stationName": "Bagalgunte PS",
+    "stationCode": "PS - 117",
+    "latitude": 13.0595489998628,
+    "longitude": 77.5036570001419,
+    "location": "Jalahalli"
+  },
+  {
+    "stationId": 118,
+    "stationName": "Gangammagudi PS",
+    "stationCode": "PS - 118",
+    "latitude": 13.0721550001859,
+    "longitude": 77.5299849997112,
+    "location": "Jalahalli"
+  },
+  {
+    "stationId": 119,
+    "stationName": "Soladevanahalli PS",
+    "stationCode": "PS - 119",
+    "latitude": 13.0934310001467,
+    "longitude": 77.489040000408,
+    "location": "Jalahalli"
+  },
+  {
+    "stationId": 120,
+    "stationName": "Jalahalli PS",
+    "stationCode": "PS - 120",
+    "latitude": 13.0486679996027,
+    "longitude": 77.5495399998899,
+    "location": "Jalahalli"
+  },
+  {
+    "stationId": 121,
+    "stationName": "J.C. NagarPS",
+    "stationCode": "PS - 121",
+    "latitude": 13.0055789999663,
+    "longitude": 77.5935739997935,
+    "location": "Sadashivanagar"
+  },
+  {
+    "stationId": 122,
+    "stationName": "R.T. Nagar PS",
+    "stationCode": "PS - 122",
+    "latitude": 13.0247279997493,
+    "longitude": 77.5931990004551,
+    "location": "RT Nagar"
+  },
+  {
+    "stationId": 123,
+    "stationName": "Sanjay Nagara PS",
+    "stationCode": "PS - 123",
+    "latitude": 13.0333540002619,
+    "longitude": 77.5757999996612,
+    "location": "Sanjay Nagar"
+  },
+  {
+    "stationId": 124,
+    "stationName": "Hebbal PS",
+    "stationCode": "PS - 124",
+    "latitude": 13.0383900002421,
+    "longitude": 77.5896609998677,
+    "location": "Hebbal"
+  },
+  {
+    "stationId": 126,
+    "stationName": "Chikkajala PS",
+    "stationCode": "PS - 126",
+    "latitude": 13.1732849997572,
+    "longitude": 77.6332139995524,
+    "location": "Airport"
+  },
+  {
+    "stationId": 128,
+    "stationName": "Amruthahally PS",
+    "stationCode": "PS - 128",
+    "latitude": 13.0568580000581,
+    "longitude": 77.5985649995896,
+    "location": "Hebbal"
+  },
+  {
+    "stationId": 129,
+    "stationName": "Kothanur PS",
+    "stationCode": "PS - 129",
+    "latitude": 13.0555134900539,
+    "longitude": 77.6464059600349,
+    "location": "Hennur"
+  },
+  {
+    "stationId": 130,
+    "stationName": "Sampigehalli PS",
+    "stationCode": "PS - 130",
+    "latitude": 13.0753290001411,
+    "longitude": 77.6333430004523,
+    "location": "Hennur"
+  },
+  {
+    "stationId": 131,
+    "stationName": "Kodigehalli PS",
+    "stationCode": "PS - 131",
+    "latitude": 13.0621039996126,
+    "longitude": 77.5740659996586,
+    "location": "Sanjay Nagar"
+  },
+  {
+    "stationId": 132,
+    "stationName": "Yelahanka New Town PS",
+    "stationCode": "PS - 132",
+    "latitude": 13.0999964496935,
+    "longitude": 77.5838171135637,
+    "location": "Yelahanka"
+  },
+  {
+    "stationId": 133,
+    "stationName": "Yelahanka PS",
+    "stationCode": "PS - 133",
+    "latitude": 13.0948982140093,
+    "longitude": 77.594093907309,
+    "location": "Yelahanka"
+  },
+  {
+    "stationId": 134,
+    "stationName": "Banashankari PS",
+    "stationCode": "PS - 134",
+    "latitude": 12.9292740000901,
+    "longitude": 77.5679710003444,
+    "location": "Basavanagudi"
+  },
+  {
+    "stationId": 135,
+    "stationName": "Basavanagudi PS",
+    "stationCode": "PS - 135",
+    "latitude": 12.9419994209918,
+    "longitude": 77.5742406181053,
+    "location": "Basavanagudi"
+  },
+  {
+    "stationId": 136,
+    "stationName": "Jayanagar PS",
+    "stationCode": "PS - 136",
+    "latitude": 12.9285749996732,
+    "longitude": 77.5813879997279,
+    "location": "Jayanagar"
+  },
+  {
+    "stationId": 137,
+    "stationName": "Jayaprakash Nagar PS",
+    "stationCode": "PS - 137",
+    "latitude": 12.9118000000068,
+    "longitude": 77.5876000003785,
+    "location": "JP Nagar"
+  },
+  {
+    "stationId": 138,
+    "stationName": "Siddapura PS",
+    "stationCode": "PS - 138",
+    "latitude": 12.9396290002763,
+    "longitude": 77.5941780002841,
+    "location": "Wilson Garden"
+  },
+  {
+    "stationId": 139,
+    "stationName": "Basavanagudi Women PS",
+    "stationCode": "PS - 139",
+    "latitude": 12.9290081004219,
+    "longitude": 77.5678107000166,
+    "location": "Basavanagudi"
+  },
+  {
+    "stationId": 140,
+    "stationName": "Konanakunte PS",
+    "stationCode": "PS - 140",
+    "latitude": 12.8839319997207,
+    "longitude": 77.56640799997,
+    "location": "Yelachenahalli"
+  },
+  {
+    "stationId": 141,
+    "stationName": "Kumaraswamy Layout PS",
+    "stationCode": "PS - 141",
+    "latitude": 12.9053291296562,
+    "longitude": 77.5632979997497,
+    "location": "Yelachenahalli"
+  },
+  {
+    "stationId": 142,
+    "stationName": "Puttenahalli PS",
+    "stationCode": "PS - 142",
+    "latitude": 12.9024027782159,
+    "longitude": 77.5819750000366,
+    "location": "JP Nagar"
+  },
+  {
+    "stationId": 143,
+    "stationName": "Subramanyapura PS",
+    "stationCode": "PS - 143",
+    "latitude": 12.901203319357,
+    "longitude": 77.5443170617634,
+    "location": "Banashankari"
+  },
+  {
+    "stationId": 144,
+    "stationName": "Thalaghattapura PS",
+    "stationCode": "PS - 144",
+    "latitude": 12.8690240001717,
+    "longitude": 77.5362860003164,
+    "location": "Yelachenahalli"
+  },
+  {
+    "stationId": 145,
+    "stationName": "V.V. Puram PS",
+    "stationCode": "PS - 145",
+    "latitude": 12.9596195803045,
+    "longitude": 77.5722658495622,
+    "location": "City Market"
+  },
+  {
+    "stationId": 146,
+    "stationName": "Channammanakere Achu Kattu PS",
+    "stationCode": "PS - 146",
+    "latitude": 12.9301162396181,
+    "longitude": 77.560604590239,
+    "location": "Banashankari"
+  },
+  {
+    "stationId": 147,
+    "stationName": "Kempegowda Nagar PS",
+    "stationCode": "PS - 147",
+    "latitude": 12.9491600000604,
+    "longitude": 77.5631800000979,
+    "location": "Chamarajpet"
+  },
+  {
+    "stationId": 148,
+    "stationName": "Girinagar PS",
+    "stationCode": "PS - 148",
+    "latitude": 12.9360000002911,
+    "longitude": 77.5438999998846,
+    "location": "Girinagar"
+  },
+  {
+    "stationId": 149,
+    "stationName": "Bandepalya PS",
+    "stationCode": "PS - 149",
+    "latitude": 12.9056000003551,
+    "longitude": 77.6415333333942,
+    "location": "HSR Layout"
+  },
+  {
+    "stationId": 150,
+    "stationName": "Electronic City PS",
+    "stationCode": "PS - 150",
+    "latitude": 12.8400089995489,
+    "longitude": 77.6630639999462,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 151,
+    "stationName": "Parappana Agrahara PS",
+    "stationCode": "PS - 151",
+    "latitude": 12.8773138893884,
+    "longitude": 77.6673555559925,
+    "location": "Harlur"
+  },
+  {
+    "stationId": 152,
+    "stationName": "Adugodi PS",
+    "stationCode": "PS - 152",
+    "latitude": 12.941430999878,
+    "longitude": 77.6115419998195,
+    "location": "Koramangala"
+  },
+  {
+    "stationId": 153,
+    "stationName": "H.S.R.Layout PS",
+    "stationCode": "PS - 153",
+    "latitude": 12.9201510003798,
+    "longitude": 77.6513889997284,
+    "location": "HSR Layout"
+  },
+  {
+    "stationId": 154,
+    "stationName": "Koramangala PS",
+    "stationCode": "PS - 154",
+    "latitude": 12.9412138887662,
+    "longitude": 77.6213416671002,
+    "location": "Koramangala"
+  },
+  {
+    "stationId": 155,
+    "stationName": "Madiwala PS",
+    "stationCode": "PS - 155",
+    "latitude": 12.9209999998742,
+    "longitude": 77.620667999617,
+    "location": "Silk Board"
+  },
+  {
+    "stationId": 156,
+    "stationName": "Bommanahalli PS",
+    "stationCode": "PS - 156",
+    "latitude": 12.9106199997205,
+    "longitude": 77.6249800003253,
+    "location": "Bommanahalli"
+  },
+  {
+    "stationId": 158,
+    "stationName": "Tilak Nagar PS",
+    "stationCode": "PS - 158",
+    "latitude": 12.9283629998263,
+    "longitude": 77.5905730004444,
+    "location": "Jayanagar"
+  },
+  {
+    "stationId": 159,
+    "stationName": "Chamarajpet PS",
+    "stationCode": "PS - 159",
+    "latitude": 12.9605426996297,
+    "longitude": 77.5670263999736,
+    "location": "Chamarajpet"
+  },
+  {
+    "stationId": 160,
+    "stationName": "City Market PS",
+    "stationCode": "PS - 160",
+    "latitude": 12.964957672278,
+    "longitude": 77.5761266577661,
+    "location": "City Market"
+  },
+  {
+    "stationId": 161,
+    "stationName": "Cottonpet PS",
+    "stationCode": "PS - 161",
+    "latitude": 12.9680170243514,
+    "longitude": 77.5700979326779,
+    "location": "City Market"
+  },
+  {
+    "stationId": 162,
+    "stationName": "Kalasipalya PS",
+    "stationCode": "PS - 162",
+    "latitude": 12.9573704167974,
+    "longitude": 77.5773576933696,
+    "location": "City Market"
+  },
+  {
+    "stationId": 163,
+    "stationName": "Upparpet PS",
+    "stationCode": "PS - 163",
+    "latitude": 12.9744759561439,
+    "longitude": 77.5748211347527,
+    "location": "Majestic"
+  },
+  {
+    "stationId": 164,
+    "stationName": "Annapoorneshwari Nagar PS",
+    "stationCode": "PS - 164",
+    "latitude": 12.9764945003794,
+    "longitude": 77.5127363002522,
+    "location": "Nagarbhavi"
+  },
+  {
+    "stationId": 165,
+    "stationName": "Byatarayanapura PS",
+    "stationCode": "PS - 165",
+    "latitude": 12.9513964930184,
+    "longitude": 77.5401247181361,
+    "location": "Girinagar"
+  },
+  {
+    "stationId": 166,
+    "stationName": "Chandra Layout PS",
+    "stationCode": "PS - 166",
+    "latitude": 12.9588991588048,
+    "longitude": 77.5283954172681,
+    "location": "Vijayanagar"
+  },
+  {
+    "stationId": 167,
+    "stationName": "Jagajeevanram Nagar PS",
+    "stationCode": "PS - 167",
+    "latitude": 12.964081607397,
+    "longitude": 77.5550759389811,
+    "location": "Chamarajpet"
+  },
+  {
+    "stationId": 168,
+    "stationName": "Jnanabharathi PS",
+    "stationCode": "PS - 168",
+    "latitude": 12.9505529290118,
+    "longitude": 77.5002666799548,
+    "location": "Nagarbhavi"
+  },
+  {
+    "stationId": 169,
+    "stationName": "Kengeri PS",
+    "stationCode": "PS - 169",
+    "latitude": 12.9104775156184,
+    "longitude": 77.4815711889913,
+    "location": "Kengeri"
+  },
+  {
+    "stationId": 170,
+    "stationName": "Rajarajeshwari Nagar PS",
+    "stationCode": "PS - 170",
+    "latitude": 12.9128403426384,
+    "longitude": 77.5206330486244,
+    "location": "Rajarajeshwari Nagar"
+  },
+  {
+    "stationId": 171,
+    "stationName": "Basaveshwara Nagar PS",
+    "stationCode": "PS - 171",
+    "latitude": 12.9853070014035,
+    "longitude": 77.542571994291,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": 172,
+    "stationName": "Kamakshipalya PS",
+    "stationCode": "PS - 172",
+    "latitude": 12.9822236602558,
+    "longitude": 77.5320189022735,
+    "location": "Vijayanagar"
+  },
+  {
+    "stationId": 173,
+    "stationName": "Kempapura Agrahara PS",
+    "stationCode": "PS - 173",
+    "latitude": 12.9725125392007,
+    "longitude": 77.5615773208425,
+    "location": "Majestic"
+  },
+  {
+    "stationId": 174,
+    "stationName": "Magadi Road PS",
+    "stationCode": "PS - 174",
+    "latitude": 12.9755660999865,
+    "longitude": 77.5501698999891,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": 175,
+    "stationName": "Vijayanagar PS",
+    "stationCode": "PS - 175",
+    "latitude": 12.9723502644423,
+    "longitude": 77.538467437727,
+    "location": "Vijayanagar"
+  },
+  {
+    "stationId": 234,
+    "stationName": "Kaggalipura PS",
+    "stationCode": "PS - 234",
+    "latitude": 12.7995459998704,
+    "longitude": 77.5100820000121,
+    "location": "Yelachenahalli"
+  },
+  {
+    "stationId": 239,
+    "stationName": "Kumbalagudu PS",
+    "stationCode": "PS - 239",
+    "latitude": 12.8751639997321,
+    "longitude": 77.4441459996032,
+    "location": "Kengeri"
+  },
+  {
+    "stationId": 247,
+    "stationName": "Tavarekere PS",
+    "stationCode": "PS - 247",
+    "latitude": 12.9662440004315,
+    "longitude": 77.4007709999584,
+    "location": "Kengeri"
+  },
+  {
+    "stationId": 783,
+    "stationName": "Bellanduru PS",
+    "stationCode": "PS - 783",
+    "latitude": 12.9191619996926,
+    "longitude": 77.6678679998158,
+    "location": "Bellandur"
+  },
+  {
+    "stationId": 784,
+    "stationName": "H.A.L. PS",
+    "stationCode": "PS - 784",
+    "latitude": 12.9550059996707,
+    "longitude": 77.6828550001031,
+    "location": "Marathahalli"
+  },
+  {
+    "stationId": 785,
+    "stationName": "Marathahalli PS",
+    "stationCode": "PS - 785",
+    "latitude": 12.9456189996246,
+    "longitude": 77.6980390002911,
+    "location": "Marathahalli"
+  },
+  {
+    "stationId": 786,
+    "stationName": "Varthur PS",
+    "stationCode": "PS - 786",
+    "latitude": 12.9380340003015,
+    "longitude": 77.7469200001009,
+    "location": "Varthur"
+  },
+  {
+    "stationId": 787,
+    "stationName": "K.R. Puram PS",
+    "stationCode": "PS - 787",
+    "latitude": 13.0090160001236,
+    "longitude": 77.693286999959,
+    "location": "KR Puram"
+  },
+  {
+    "stationId": 788,
+    "stationName": "Kadugodi PS",
+    "stationCode": "PS - 788",
+    "latitude": 12.9954149997581,
+    "longitude": 77.7578210000384,
+    "location": "Kadugodi"
+  },
+  {
+    "stationId": 789,
+    "stationName": "Mahadevapura PS",
+    "stationCode": "PS - 789",
+    "latitude": 12.9966939998372,
+    "longitude": 77.6928279998912,
+    "location": "Mahadevapura"
+  },
+  {
+    "stationId": 790,
+    "stationName": "Whitefield PS",
+    "stationCode": "PS - 790",
+    "latitude": 12.9753560004434,
+    "longitude": 77.7510760001927,
+    "location": "Whitefield"
+  },
+  {
+    "stationId": 791,
+    "stationName": "Anekal PS",
+    "stationCode": "PS - 791",
+    "latitude": 12.7101184001285,
+    "longitude": 77.692886400445,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 792,
+    "stationName": "Bannerghatta PS",
+    "stationCode": "PS - 792",
+    "latitude": 12.8135433004012,
+    "longitude": 77.5792525001605,
+    "location": "Hulimavu"
+  },
+  {
+    "stationId": 793,
+    "stationName": "Jigani PS",
+    "stationCode": "PS - 793",
+    "latitude": 12.7824606995826,
+    "longitude": 77.6392150996301,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 794,
+    "stationName": "Hebbagodi PS",
+    "stationCode": "PS - 794",
+    "latitude": 12.8263711001822,
+    "longitude": 77.6799321002329,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 795,
+    "stationName": "Sarjapura PS",
+    "stationCode": "PS - 795",
+    "latitude": 12.8607281002345,
+    "longitude": 77.7812827002306,
+    "location": "Varthur"
+  },
+  {
+    "stationId": 797,
+    "stationName": "Avalahally PS",
+    "stationCode": "PS - 797",
+    "latitude": 13.042326000046,
+    "longitude": 77.7457209996652,
+    "location": "Kadugodi"
+  },
+  {
+    "stationId": 805,
+    "stationName": "Rajanukunte PS",
+    "stationCode": "PS - 805",
+    "latitude": 13.1739705001471,
+    "longitude": 77.5624243997917,
+    "location": "Yelahanka"
+  },
+  {
+    "stationId": 843,
+    "stationName": "Attibele PS",
+    "stationCode": "PS - 843",
+    "latitude": 12.7789360000593,
+    "longitude": 77.7716710001049,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 848,
+    "stationName": "Madhanayakanahally PS",
+    "stationCode": "PS - 848",
+    "latitude": 13.0622470002623,
+    "longitude": 77.4623099998741,
+    "location": "Peenya"
+  },
+  {
+    "stationId": 849,
+    "stationName": "Suryanagar PS",
+    "stationCode": "PS - 849",
+    "latitude": 12.7928960000553,
+    "longitude": 77.7049370001704,
+    "location": "Electronic City"
+  },
+  {
+    "stationId": 850,
+    "stationName": "Ashoknagar PS",
+    "stationCode": "PS - 850",
+    "latitude": 12.9716320001726,
+    "longitude": 77.6101850003906,
+    "location": "MG Road"
+  },
+  {
+    "stationId": 851,
+    "stationName": "S.J. Park PS",
+    "stationCode": "PS - 851",
+    "latitude": 12.9609289995745,
+    "longitude": 77.5831449995862,
+    "location": "City Market"
+  },
+  {
+    "stationId": 852,
+    "stationName": "Bagalur PS",
+    "stationCode": "PS - 852",
+    "latitude": 13.1400419997494,
+    "longitude": 77.6704359997402,
+    "location": "Airport"
+  },
+  {
+    "stationId": 853,
+    "stationName": "Hanumathanagar PS",
+    "stationCode": "PS - 853",
+    "latitude": 12.9362359996876,
+    "longitude": 77.5614549998024,
+    "location": "Basavanagudi"
+  },
+  {
+    "stationId": 854,
+    "stationName": "Begur PS",
+    "stationCode": "PS - 854",
+    "latitude": 12.8782620001631,
+    "longitude": 77.6243380001586,
+    "location": "Hulimavu"
+  },
+  {
+    "stationId": 855,
+    "stationName": "Hulimavu PS",
+    "stationCode": "PS - 855",
+    "latitude": 12.8766460003129,
+    "longitude": 77.6000710004058,
+    "location": "Hulimavu"
+  },
+  {
+    "stationId": 856,
+    "stationName": "Mico Layout PS",
+    "stationCode": "PS - 856",
+    "latitude": 12.9086119998238,
+    "longitude": 77.610659000147,
+    "location": "BTM Layout"
+  },
+  {
+    "stationId": 857,
+    "stationName": "Vidyaranyapura PS",
+    "stationCode": "PS - 857",
+    "latitude": 13.0839867258753,
+    "longitude": 77.5643861813388,
+    "location": "Yelahanka"
+  },
+  {
+    "stationId": null,
+    "stationName": "Mahalakshmipuram PS",
+    "stationCode": null,
+    "latitude": 13.0027389161188,
+    "longitude": 77.5473078440129,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "Shankarpura PS",
+    "stationCode": null,
+    "latitude": 12.9536079559543,
+    "longitude": 77.5699948247066,
+    "location": "Chamarajpet"
+  },
+  {
+    "stationId": null,
+    "stationName": "Suddaguntepalya PS",
+    "stationCode": null,
+    "latitude": 12.9257789780078,
+    "longitude": 77.6077477934414,
+    "location": "BTM Layout"
+  },
+  {
+    "stationId": null,
+    "stationName": "ISD PS",
+    "stationCode": null,
+    "latitude": 12.9693319402999,
+    "longitude": 77.6167567858431,
+    "location": "MG Road"
+  },
+  {
+    "stationId": null,
+    "stationName": "Bengaluru CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9898319905977,
+    "longitude": 77.5916650107377,
+    "location": "Vasanth Nagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "Central CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9667990246362,
+    "longitude": 77.5871719906891,
+    "location": "Cubbon Park"
+  },
+  {
+    "stationId": null,
+    "stationName": "East CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9878455956193,
+    "longitude": 77.603634427068,
+    "location": "Shivajinagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "North CEN Crime PS",
+    "stationCode": null,
+    "latitude": 13.0180495928218,
+    "longitude": 77.5584169553286,
+    "location": "Malleshwaram"
+  },
+  {
+    "stationId": null,
+    "stationName": "NorthEast CEN Crime PS",
+    "stationCode": null,
+    "latitude": 13.0568918670573,
+    "longitude": 77.5985408010627,
+    "location": "Hebbal"
+  },
+  {
+    "stationId": null,
+    "stationName": "South CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9364239699816,
+    "longitude": 77.5792168169108,
+    "location": "Jayanagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "SouthEast CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9411769638892,
+    "longitude": 77.6214107811294,
+    "location": "Koramangala"
+  },
+  {
+    "stationId": null,
+    "stationName": "West CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9854783207063,
+    "longitude": 77.5425355880706,
+    "location": "Rajajinagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "Whitefield CEN Crime PS",
+    "stationCode": null,
+    "latitude": 12.9754099257775,
+    "longitude": 77.7511256717663,
+    "location": "Whitefield"
+  },
+  {
+    "stationId": null,
+    "stationName": "Govindapura PS",
+    "stationCode": null,
+    "latitude": 13.0344587360155,
+    "longitude": 77.619463595785,
+    "location": "HBR Layout"
+  },
+  {
+    "stationId": null,
+    "stationName": "Govindaraja Nagar PS",
+    "stationCode": null,
+    "latitude": 12.972337140279,
+    "longitude": 77.5292191043584,
+    "location": "Vijayanagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "Cyber Crime Police Station",
+    "stationCode": null,
+    "latitude": 12.9821582373495,
+    "longitude": 77.5862511278321,
+    "location": "Cubbon Park"
+  },
+  {
+    "stationId": null,
+    "stationName": "Byadarahalli PS",
+    "stationCode": null,
+    "latitude": 12.9869611703651,
+    "longitude": 77.4913220422091,
+    "location": "Nagarbhavi"
+  },
+  {
+    "stationId": null,
+    "stationName": "East Zone Women PS",
+    "stationCode": null,
+    "latitude": 12.9880379848679,
+    "longitude": 77.6037380166751,
+    "location": "Shivajinagar"
+  },
+  {
+    "stationId": null,
+    "stationName": "Police station (added from Google Maps pin, name to confirm)",
+    "stationCode": null,
+    "latitude": 12.942541,
+    "longitude": 77.695567,
+    "source": "user-provided Google Maps pin",
+    "needsVerification": true,
+    "location": "Marathahalli"
+  }
+]

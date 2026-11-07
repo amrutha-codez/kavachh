@@ -1,0 +1,78 @@
+.community-grid {
+  display: block;
+  margin-top: 16px;
+}
+@media (min-width: 768px) {
+  .community-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: start;
+  }
+}
+
+.report-form .small-title {
+  margin-top: 4px;
+}
+.chip-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+/* the area picker is a chip with a hidden dropdown inside */
+.select-chip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding: 0;
+}
+.select-chip select {
+  appearance: none;
+  -webkit-appearance: none;
+  padding: 10px 38px 10px 18px;
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+  border-radius: 999px;
+  max-width: 220px;
+}
+.select-chip select option {
+  color: var(--text);
+}
+.select-chip svg {
+  position: absolute;
+  right: 14px;
+  pointer-events: none;
+}
+
+.list-title {
+  margin-top: 4px;
+}
+
+.report {
+  margin-bottom: 14px;
+}
+.report-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.report-head h3 {
+  margin: 0;
+  font-size: 19px;
+}
+.report-meta {
+  margin: 4px 0 10px;
+  color: var(--text-light);
+}
+.report-text {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}

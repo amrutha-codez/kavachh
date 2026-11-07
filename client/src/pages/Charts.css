@@ -1,0 +1,162 @@
+.charts-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+/* area dropdown that looks like a pill */
+.area-select {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  flex: 0 1 220px; /* can shrink on very small phones */
+  min-width: 0;
+}
+.area-select select {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  min-width: 0;
+  padding: 10px 40px 10px 18px;
+  border: 1.5px solid var(--border);
+  border-radius: 999px;
+  background: var(--white);
+  font-size: 16px;
+}
+.area-select svg {
+  position: absolute;
+  right: 14px;
+  pointer-events: none;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.charts-grid {
+  display: block;
+}
+@media (min-width: 768px) {
+  .charts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: start;
+  }
+}
+
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.card-head .small-title {
+  margin: 0;
+  padding-top: 6px;
+}
+
+.note {
+  margin: 12px 0 0;
+  font-size: 14px;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+/* Morning / Afternoon / Night cards */
+.slot-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.slot-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 12px 6px;
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  background: var(--white);
+}
+.slot-card small {
+  color: var(--text-light);
+  font-size: 12px;
+}
+.slot-card .badge {
+  margin-top: 6px;
+  font-size: 18px;
+  padding: 4px 16px;
+}
+.slot-card.active {
+  border: 2.5px solid var(--purple);
+}
+
+/* "What makes up the score" bars */
+.bar-row {
+  display: grid;
+  grid-template-columns: 120px 1fr 32px;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 0;
+}
+.bar-row b {
+  text-align: right;
+  font-size: 17px;
+}
+.bar-track {
+  height: 12px;
+  border-radius: 999px;
+  background: var(--border);
+  overflow: hidden;
+}
+.bar-fill {
+  height: 100%;
+  border-radius: 999px;
+}
+
+/* Compare table */
+.table-wrap {
+  overflow-x: auto;
+}
+.compare {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.compare thead th {
+  padding: 0 4px 14px;
+  font-weight: 700;
+  vertical-align: top;
+}
+.compare-name {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.compare tbody th {
+  padding: 14px 0;
+  text-align: left;
+  font-weight: 400;
+  font-size: 17px;
+}
+.compare tbody tr {
+  border-top: 1px solid var(--border);
+}
+.compare td {
+  padding: 14px 4px;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.rank {
+  display: inline-block;
+  width: 24px;
+  color: var(--text-light);
+}

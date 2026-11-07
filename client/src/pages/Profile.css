@@ -1,0 +1,145 @@
+.profile-wrap,
+.auth-wrap {
+  max-width: 640px;
+  margin: 0 auto;
+}
+.profile-wrap .page-title {
+  margin-bottom: 16px;
+}
+
+/* Profile top card */
+.profile-top {
+  text-align: center;
+  padding: 28px 20px;
+}
+.big-avatar {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 16px;
+  border-radius: 50%;
+  background: var(--purple);
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-size: 36px;
+  font-weight: 700;
+}
+.profile-top h2 {
+  margin: 0 0 4px;
+  font-size: 26px;
+}
+.email {
+  margin: 0 0 16px;
+  color: var(--text-light);
+  overflow-wrap: anywhere;
+}
+
+/* My details */
+.details {
+  margin: 0;
+}
+.details > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 0;
+  border-top: 1px solid var(--border);
+  font-size: 17px;
+}
+.details dt {
+  color: var(--text-light);
+}
+.details dd {
+  margin: 0;
+  text-align: right;
+  overflow-wrap: anywhere;
+}
+
+/* Settings list */
+.settings {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.settings li {
+  border-top: 1px solid var(--border);
+}
+.settings button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 16px 0;
+  border: none;
+  background: none;
+  font-size: 18px;
+  text-align: left;
+}
+.settings button:hover span:first-child {
+  color: var(--purple);
+}
+.setting-value {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-light);
+  font-size: 15px;
+}
+.settings svg {
+  color: var(--text-light);
+  transition: transform 0.15s;
+}
+.logout {
+  color: var(--risky-text);
+  font-weight: 700;
+}
+.help {
+  padding: 0 0 16px;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+.help p {
+  margin: 0 0 10px;
+}
+
+.button-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--nav-h) + 20px);
+  transform: translateX(-50%);
+  max-width: calc(100vw - 32px);
+  padding: 12px 20px;
+  border-radius: 999px;
+  background: var(--text);
+  color: #fff;
+  z-index: 1200;
+}
+@media (min-width: 768px) {
+  .toast {
+    bottom: 32px;
+  }
+}
+
+/* Login / sign up */
+.auth-card {
+  margin-top: 20px;
+}
+.switch-mode {
+  margin: 16px 0 0;
+  text-align: center;
+  color: var(--text-light);
+}
+.link-btn {
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--purple);
+  font-weight: 700;
+  text-decoration: underline;
+}

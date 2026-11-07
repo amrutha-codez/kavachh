@@ -1,0 +1,250 @@
+.nav-page {
+  position: relative;
+  height: calc(100dvh - var(--nav-h));
+  overflow: hidden;
+}
+
+.nav-page .map {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: #e9e5db;
+}
+
+/* ---------- search + chips ---------- */
+.nav-top {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  right: 12px;
+  z-index: 500;
+  pointer-events: none;
+}
+.nav-top > * {
+  pointer-events: auto;
+}
+.nav-search .search-box {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+  pointer-events: none;
+}
+.chip-row .chip {
+  pointer-events: auto;
+  padding: 9px 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.map-note {
+  margin-top: 8px;
+}
+
+/* ---------- legend ---------- */
+.map-legend {
+  display: inline-block;
+  margin-top: 10px;
+  background: var(--white);
+  border-radius: 14px;
+  padding: 10px 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  font-size: 14px;
+}
+.map-legend p {
+  margin: 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.map-legend .legend-head {
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.map-legend .dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* ---------- bottom card ---------- */
+.nav-card {
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 30px; /* leaves room for the map credit line below */
+  z-index: 500;
+  max-height: 62%;
+  overflow-y: auto;
+  background: var(--white);
+  border-radius: 24px;
+  padding: 18px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
+}
+.nav-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.nav-card-name {
+  margin: 0;
+  font-size: 22px;
+}
+.nav-card-sub {
+  margin: 4px 0 12px;
+  color: var(--text-light);
+  line-height: 1.45;
+}
+.nav-card-top .nav-card-sub {
+  margin-bottom: 0;
+}
+
+.route-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.icon-btn {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: var(--purple-soft);
+  color: var(--purple-dark);
+}
+.route-areas {
+  margin-bottom: 8px;
+}
+.route-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.route-summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+  font-weight: 700;
+}
+.route-panel .btn {
+  margin-top: 6px;
+}
+
+/* ---------- laptop ---------- */
+@media (min-width: 768px) {
+  .nav-top {
+    max-width: 680px;
+    left: 16px;
+  }
+  .nav-card {
+    left: 16px;
+    right: auto;
+    width: 420px;
+    bottom: 34px;
+    max-height: calc(100% - 190px);
+  }
+  .leaflet-top.leaflet-right {
+    top: 8px;
+  }
+}
+@media (max-width: 767px) {
+  .leaflet-control-zoom {
+    display: none; /* phones pinch to zoom */
+  }
+  .map-legend {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+}
+
+/* ---------- map bubbles ---------- */
+.bubble-wrap,
+.police-wrap,
+.here-dot {
+  background: none;
+  border: none;
+}
+.bubble {
+  width: 104px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+  font-family: "DM Sans", sans-serif;
+  font-size: 11px;
+  line-height: 1.15;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+.bubble b {
+  font-size: 15px;
+}
+.bubble .b-name {
+  max-width: 92px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.bubble.safe {
+  background: rgba(47, 168, 102, 0.6);
+  border-color: #2fa866;
+}
+.bubble.medium {
+  background: rgba(229, 161, 0, 0.6);
+  border-color: #e5a100;
+}
+.bubble.risky {
+  background: rgba(214, 69, 69, 0.6);
+  border-color: #d64545;
+}
+.bubble.sel {
+  box-shadow: 0 0 0 4px rgba(91, 58, 140, 0.55);
+}
+.zoom-far .bubble {
+  transform: scale(0.6);
+}
+.zoom-far .bubble .b-name {
+  display: none;
+}
+
+.here-dot {
+  pointer-events: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--purple);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 6px rgba(91, 58, 140, 0.25);
+}
+
+.police-pin {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  background: #1d4ed8;
+  color: #fff;
+  border: 2px solid #fff;
+  display: grid;
+  place-items: center;
+  font: 700 13px "DM Sans", sans-serif;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
